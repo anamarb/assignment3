@@ -8,7 +8,7 @@ remind_me <- function() {
   return(shopping_list)
 }
 remind_me()
-#https://github.com/anamarb/programming.git
+
 
 cheat <- function(exercise_num) {
   if (exercise_num == 1) {
