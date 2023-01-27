@@ -90,6 +90,6 @@ make_art <- function(seed = NULL) {
   }
 }
 
-make_art()
+#make_art()
 #make_art(12) test
 
